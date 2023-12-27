@@ -18,7 +18,7 @@
 
 + Resnet  
 + EfficientNet  
-![캡처2](https://github.com/Taeyoungleee/Celebrity-classification/assets/113446739/aae43ac8-712c-4ab1-95b2-5323edc1179d)  
+![캡처3](https://github.com/Taeyoungleee/Celebrity-classification/assets/113446739/3964f0e4-de68-4b6a-addf-473f08321612)  
 ------------------------------------------------------------------------------------------
 ## 방법  
 
