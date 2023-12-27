@@ -16,8 +16,8 @@
 
 ## 이용한 모델  
 
-- Resnet  
-- EfficientNet  
++ Resnet  
++ EfficientNet  
 ![캡처3](https://github.com/Taeyoungleee/Celebrity-classification/assets/113446739/3964f0e4-de68-4b6a-addf-473f08321612)  
 ------------------------------------------------------------------------------------------
 ## 방법  
